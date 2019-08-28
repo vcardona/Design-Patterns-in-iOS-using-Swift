@@ -4,7 +4,7 @@
 //
 //  Created by Victor Hugo on 28/08/19.
 //  Copyright © 2019 Vintage Robot. All rights reserved.
-//
+// Ejemplo implementando el MVC
 
 import UIKit
 
